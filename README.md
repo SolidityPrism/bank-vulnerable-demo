@@ -1,3 +1,4 @@
+edit
 # Solidity Multi-File Security Showcase
 
 A pedagogical Solidity project demonstrating vulnerabilities across multiple interacting contracts. This repo showcases **three severity levels of security issues**: simple (easy to spot), intermediate (requires good Solidity knowledge), and complex (tricky storage/proxy interactions).
